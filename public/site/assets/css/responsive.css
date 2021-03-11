@@ -1,0 +1,390 @@
+
+
+@media only screen and (max-width: 1252px) {
+  
+  .div-logo .img1 {
+    width: 290px;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 140px;
+    opacity: .8;
+    z-index: 1;
+  }
+  .div-logo .img2 {
+    width: 90px;
+    height: auto;
+    left: 84px;
+    position: absolute;
+    top: 170px;
+    opacity: 1;
+    z-index: 2;
+  }
+
+}
+
+@media only screen and (max-width: 1079px) {
+  .div-logo .img1 {
+    width: 210px;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 170px;
+    opacity: .8;
+    z-index: 1;
+  }
+  .div-logo .img2 {
+    width: 70px;
+    height: auto;
+    left: 54px;
+    position: absolute;
+    top: 190px;
+    opacity: 1;
+    z-index: 2;
+  }
+  .navbar-toggler1{
+    margin-left: auto;
+    margin-right: 40px;
+  }
+  .overlayimg {
+    position: absolute;
+    width: 630px;
+    height: 100%;
+    left: -13px;
+    top: -80px;
+    opacity: .8;
+}
+.aboutimg1 h1 {
+  color: #fff;
+  position: absolute;
+  z-index: 50;
+  font-size: 100px;
+  left: 120px;
+  top: 200px;
+  text-align: center;
+  font-weight: bolder;
+}
+.aboutimg1 h1 span {
+  color: #e88823;
+  margin-right: -23px;
+}
+.aboutimg1 p {
+  color: #fff;
+  position: absolute;
+  bottom: 15%;
+  right: 20px;
+  z-index: 15;
+  font-size: 20px;
+  width: 80%;
+}
+.aboutimg2 p {
+  color: #fff;
+  position: relative;
+  z-index: 15;
+  font-size: 20px;
+  margin-top: 100%;
+  line-height: 2;
+}
+.aboutimg2 .aboutlogowhie {
+  width: 70%;
+  margin-top: 155%;
+  position: relative;
+  z-index: 15;
+}
+
+}
+
+@media only screen and (max-width: 927px) {
+  .div-logo .img1 {
+    width: 160px !important;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 60px !important;
+    opacity: .8;
+    z-index: 1;
+  }
+  .div-logo .img2 {
+    width: 50px !important;
+    height: auto;
+    left: 44px !important;
+    position: absolute;
+    top: 80px !important;
+    opacity: 1;
+    z-index: 2;
+  }
+  .fixed-nav{
+    margin-top: 45px;
+  }
+  .qutes1{
+    margin-left: 0;
+  }
+  .aboutimg2 p {
+    color: #fff;
+    position: relative;
+    z-index: 15;
+    font-size: 18px;
+    margin-top: 0;
+    line-height: 2;
+    padding: 40px;
+  }
+  .aboutimg2 .aboutlogowhie {
+    width: 40%;
+    margin-top: 70%;
+    position: relative;
+    z-index: 15;
+  }
+  .phragraph_productslider{
+    font-size: 16px;
+  }
+  .form_product_search input,
+  .form_product_search select{
+    margin-left: 50px;
+  }
+  .form_product_search input{
+    margin-left: 100px;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+  .detailes{
+    margin-top: 90px;
+  }
+  .detailes .content-img img{
+    margin-top: 0;
+  }
+  .footer-img1, .footer-img2{
+    width: 200px;
+  }
+  .footer-img1{
+    margin-top: 2%;
+  }
+  .footer-img2{
+    padding-bottom: 80px;
+  }
+  .footer-pr{
+    margin-top: 11%;
+  }
+  .overlayimg {
+    position: absolute;
+    width: 460px !important;
+    height: 100%;
+    left: -13px;
+    top: -210px !important;
+    opacity: .8;
+  }
+  .aboutimg1 h1 {
+    color: #fff;
+    position: absolute;
+    z-index: 50;
+    font-size: 70px !important;
+    left: 90px !important;
+    top: 140px !important;
+    text-align: center;
+    font-weight: bolder;
+  }
+  .aboutimg2 .aboutlogowhie {
+    width: 40%;
+    margin-top: 90%;
+    position: relative;
+    z-index: 15;
+  }
+  .phragraph_productslider {
+    left: 58px;
+    bottom: 0px;
+    font-size: 13px;
+  }
+  .form_product_search{
+    padding: 0 30px;
+  }
+  .contact_div .visit,
+  .contact_div .contact {
+    margin-left: 15%; 
+  }
+  .contact{
+    margin-top: 40px;
+  }
+  .conactborder{
+    display: none;
+  }
+  .bacgroundgallaryoverlayimg {
+    position: absolute;
+    width: 400px;
+    height: 100%;
+    left: 0px;
+    top: -30px;
+    opacity: .8;
+  }
+  .bacgroundgallary .textG{
+    font-size: 140px;
+  }
+  .bacgroundgallary h1 {
+    left: 86px;
+    top: 120px;
+  }
+  .thirdtext{
+    right: 82px;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar-toggler1{
+    margin-right: 5px;
+  }
+  .div-logo .img1 {
+    width: 100px !important;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 30px !important;
+    opacity: .8;
+    z-index: 1;
+  }
+  .div-logo .img2 {
+    width: 30px !important;
+    height: auto;
+    left: 30px !important;
+    position: absolute;
+    top: 45px !important;
+    opacity: 1;
+    z-index: 2;
+  }
+  .aboutimg2 .aboutlogowhie {
+    width: 40%;
+    margin-top: 100%;
+    position: relative;
+    z-index: 15;
+  }
+  .phragraph_productslider {
+    left: 58px;
+    bottom: 0px;
+    font-size: 11px;
+    width: 80%;
+  }
+  .phragraph_productslider .qutes1,
+  .phragraph_productslider .qutes2{
+    width: 20px;
+  }
+}
+
+
+@media only screen and (max-width: 495px) {
+  .head1,
+  .head2 {
+    font-size: 45px;
+  }
+  .paragraph{
+    font-size: 15px;
+  }
+  .detailes .content-img img{
+    width: 60%;
+  }
+  .qutes1,
+  .qutes2{
+    width: 20px;
+  }
+  .products .head2{
+    font-size: 30px;
+  }
+  .footer-location .footer-location-labelperant {
+    font-weight: 500;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  .footer-location-labelfather{
+    font-size: 15px;
+    padding-left: 10px;
+  }
+  .footer-location .footer-location-labelperant i{
+    font-size: 5px !important;
+  }
+  .overlayimg {
+    position: absolute;
+    width: 320px !important;
+    height: 100%;
+    left: -13px;
+    top: -250px !important;
+    opacity: .8;
+  }
+  .aboutimg1 h1 {
+    color: #fff;
+    position: absolute;
+    z-index: 50;
+    font-size: 40px !important;
+    left: 65px !important;
+    top: 140px !important;
+    text-align: center;
+    font-weight: bolder;
+  }
+  .aboutimg1 h1 span {
+    color: #e88823;
+    margin-right: -7px;
+  }
+  .aboutimg2 .aboutlogowhie {
+    width: 50%;
+    margin-top: 100%;
+    position: relative;
+    z-index: 15;
+  }
+  .form_product_search {
+    padding: 0 10px;
+  }
+  .form_product_search input,
+  .form_product_search select {
+    margin-left: 10px;
+  }
+  .form_product_search input{
+    margin-left: 60px;
+  }
+  .contact_div .visit,
+  .contact_div .contact {
+    margin-left: 26%; 
+  }
+  .contact_div .contact p,
+  .contact_div .visit p{
+    font-size: 20px;
+  }
+  .bacgroundgallaryoverlayimg {
+    width: 280px;
+    top: -120px;
+  }
+  .bacgroundgallary .textG {
+    font-size: 100px;
+  }
+  .scondtext,
+  .thirdtext{
+    font-size: 15px;
+  }
+  .scondtext{
+    left: -8px;
+    top: -24px;
+  }
+  .thirdtext {
+    right: 55px;
+    top: -7px;
+  }
+  .bacgroundgallary h1 {
+    left: 56px;
+    top: 90px;
+  }
+
+}
+@media only screen and (max-width: 300px){
+  .inputcontent{
+    width: 100%;
+  }
+  .form_product_search input,
+  .form_product_search select {
+    margin-left: 0px;
+  }
+  .form_product_search input{
+    margin-left: 0px;
+  }
+  .phragraph_productslider{
+    display: none;
+  }
+
+}
